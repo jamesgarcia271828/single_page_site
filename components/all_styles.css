@@ -1,0 +1,30 @@
+body {
+  font-size: 3vw;
+}
+#slug_header {
+  font-family: cursive;
+  font-size: 3vw;
+}
+#slug_header a, a:visited, a:link {
+  text-decoration: none;
+  color: black;
+}
+#slug_header a:hover {
+  text-decoration: none;
+}
+#slug_front a, a:visited, a:link {
+  color:blue;
+}
+.toc a, a:visited, a:link {
+  color: black;
+}
+.toc {
+  background: #f0ead6;
+  border-style: solid;
+  border-width: 2px;
+  float: right;
+  list-style-type: none;
+  margin-right: 2em;
+  padding-left: .2em;
+  padding-right: .2em;
+}
